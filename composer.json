@@ -1,0 +1,16 @@
+{
+    "name": "tonny/course",
+    "autoload": {
+        "psr-4": {
+            "Tonny\\Course\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ang"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "*"
+    }
+}
