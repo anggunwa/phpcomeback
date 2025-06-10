@@ -2,7 +2,7 @@
     "name": "tonny/course",
     "autoload": {
         "psr-4": {
-            "Tonny\\Course\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
